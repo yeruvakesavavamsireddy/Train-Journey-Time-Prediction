@@ -1,0 +1,11 @@
+distance,stops,station,route,journey_duration
+500,10,A,R1,8
+450,8,B,R1,7
+700,15,C,R2,12
+200,3,D,R3,3
+350,5,E,R2,5
+600,12,F,R1,10
+800,18,G,R3,14
+150,2,H,R2,2
+300,6,I,R3,4
+650,13,J,R1,11
